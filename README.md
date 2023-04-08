@@ -3,7 +3,7 @@
 <html>
  
 <body>
-    <h1>TIME TABLE</h1>
+    <center><h1>TIME TABLE</h1></center>
     <table border="5" cellspacing="0" align="center">
         <!--<caption>Timetable</caption>-->
         <tr>
