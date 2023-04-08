@@ -4,7 +4,7 @@
  
 <body>
     <h1>TIME TABLE</h1>
-    <table border="10" cellspacing="0" align="center">
+    <table border="5" cellspacing="0" align="center">
         <!--<caption>Timetable</caption>-->
         <tr>
             <td align="center" height="50"
